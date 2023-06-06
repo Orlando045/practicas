@@ -1,0 +1,44 @@
+// .tittle{
+//     border-spacing: 2px;
+// }
+
+// .si{
+//     background-color: red;
+// }
+// .grupo_imagenes{
+//     display:flex;
+//     flex-direction: column;
+    
+//     div{
+//         img{
+//             width: 100%;
+//             border-radius: 10px;
+//         }
+//         h2, p{
+//             margin: 0px;
+//         }
+        
+//     }
+// }
+// @media screen and (min-width:40em) {
+//     .grupo_imagenes {
+//             display: grid;
+//             grid-template-columns: repeat(5, 1fr);
+//             grid-gap: 15px;
+//         }
+// }
+// .campo_requerido{
+//     width: 15%;
+//     background-color: blue;
+//     opacity: 0;
+//     transition: all linear .5s;
+//     &.activate{
+//         opacity: 1;
+//     }
+
+
+// }
+// .crecimiento{
+//     display: flex;
+//     grid-template-columns: repeat(2, 2fr);
+// }
